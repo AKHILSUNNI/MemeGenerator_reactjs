@@ -1,4 +1,4 @@
-# MemeGenerator_reactjs
+# `MemeGenerator_reactjs`
 
 ## description
  This is a meme generator to make a lot and ot of trolls. This use an api to acess the images that are created when the gen button is pressed.
